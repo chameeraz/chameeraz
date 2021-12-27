@@ -5,7 +5,7 @@
 - 🧐 I’m looking for help with Learning new Technologies
 
  Ask me about, 
-<img src="https://icons8.com/icon/NeNPFdj7MzXi/adobe-photoshop"/>  <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/>   <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/>
+<img src="https://img.icons8.com/fluency/144/000000/adobe-photoshop.png"/>  <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/>   <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/>
 
 - ⚡ Daily Route: 
   ***while(life.status != died){
