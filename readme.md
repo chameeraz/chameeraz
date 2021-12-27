@@ -1,10 +1,11 @@
-## Hi there I'm Chameera Mayura 👋
+## Hello World ! I'm Chameera Mayura 👋
+
 
 - 🤓 I’m a Diploma Student of Vocational traning authority Sri Lanka
 - 👨‍🏫 I’m currently learning about the facts to be packed 😎
 - 🧐 I’m looking for help with Learning new Technologies
 
- ### Ask me about, 
+ ### Ask me about😎, 
 <img src="https://img.icons8.com/fluency/80/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/80/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/>   <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/> <img src="https://img.icons8.com/fluency/80/000000/node-js.png"/>
 
 
