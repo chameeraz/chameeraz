@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=chameeraz&&show_icons=true&title_color=FFD733&icon_color=00ff00&text_color=ffffff&bg_color=000000">     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chameeraz&hide=hack,html&show_icons=true&title_color=FFD733&icon_color=00ff00&text_color=ffffff&bg_color=000000">
 
-- ⚡ favourites : 
+-  ⚡ 
   ***while(life.status != died){
      Eating -> Sleeping -> Coding -> Driving
    }***
