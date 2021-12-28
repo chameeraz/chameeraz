@@ -5,6 +5,18 @@
 - 👨‍🏫 I’m currently learning about the facts to be packed 😎
 - 🧐 I’m looking for help with Learning new Technologies
 
+### Connect with me:
+
+<p align = "center">
+
+
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/Chameera_Mayura) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/chameeramb/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/chameeraz)
+
+</p>
+
  ### My Tech Toolbox😎, 
 <img src="https://img.icons8.com/fluency/80/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/80/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/>   <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/> <img src="https://img.icons8.com/fluency/80/000000/node-js.png"/>
 
