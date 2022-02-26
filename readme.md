@@ -1,7 +1,7 @@
 ## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! I'm Chameera Mayura
 
 
-- 🤓 I’m a Diploma Student of Vocational traning authority Sri Lanka
+- 🤓 I’m a Diploma Student of Vocational training authority Sri Lanka
 - 👨‍🏫 I’m currently learning about the facts to be packed 😎
 - 🧐 I’m looking for help with Learning new Technologies
 
