@@ -18,7 +18,7 @@
 </p>
 
  ### My Tech Toolbox😎, 
-<img src="https://img.icons8.com/fluency/80/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/80/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/>   <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/> <img src="https://img.icons8.com/fluency/80/000000/node-js.png"/><img src="https://img.icons8.com/fluency/80/000000/laravel.png"/>
+<img src="https://img.icons8.com/fluency/80/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/80/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/80/000000/laravel.png"/>  <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/> <img src="https://img.icons8.com/fluency/80/000000/node-js.png"/>
 
 
 
