@@ -1,4 +1,4 @@
-## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! I'm Chameera Mayura
+## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">! I'm Chameera Mayura
 
 
 - 🤓 I’m a  Student of Vocational training authority Sri Lanka
