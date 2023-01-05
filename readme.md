@@ -25,15 +25,21 @@
 
 
 
-### Profile Stats⚡ ![](https://komarev.com/ghpvc/?username=chameeraz&color=blue)
+### Profile Stats⚡ [![](https://visitcount.itsvg.in/api?id=chameeraz&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=chameeraz&&show_icons=true&title_color=FFD733&icon_color=00ff00&text_color=ffffff&bg_color=000000">     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chameeraz&hide=hack,html&show_icons=true&title_color=FFD733&icon_color=00ff00&text_color=ffffff&bg_color=000000">
 
-
+![](https://github-readme-stats.vercel.app/api?username=chameeraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chameeraz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chameeraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -  ⚡ 
   ***while(life.status != died){
      Eating -> Sleeping -> Coding -> Driving
    }***
    
 <img src="https://img.icons8.com/external-konkapp-flat-konkapp/100/000000/external-eating-stay-at-home-konkapp-flat-konkapp.png"/> <img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/> <img src="https://img.icons8.com/external-itim2101-flat-itim2101/100/000000/external-sleeping-time-management-itim2101-flat-itim2101.png"/> <img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/>  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/100/000000/external-coding-coding-and-development-soft-fill-soft-fill-juicy-fish-2.png"/><img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/100/000000/external-driving-daily-routine-wanicon-lineal-color-wanicon.png"/>
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chameeraz&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
