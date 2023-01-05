@@ -4,10 +4,10 @@
 - 🤓 Software Developer at Circlebook
 - 👨‍🏫 I’m currently learning about the facts to be packed 😎
 - 🧐 I’m looking for help with Learning new Technologies
-
-### Connect with me:
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chameeraz) 
+
+### Connect with me:
 
   
 <p align = "center">
