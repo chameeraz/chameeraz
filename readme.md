@@ -23,14 +23,6 @@
 <img src="https://img.icons8.com/fluency/80/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/80/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/80/000000/laravel.png"/>  <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/> <img src="https://img.icons8.com/fluency/80/000000/node-js.png"/>
 
 
-
-### Profile Stats⚡ [![](https://visitcount.itsvg.in/api?id=chameeraz&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=chameeraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chameeraz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chameeraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -  ⚡ 
   ***while(life.status != died){
      Eating -> Sleeping -> Coding -> Driving
