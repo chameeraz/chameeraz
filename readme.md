@@ -40,5 +40,3 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chameeraz&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
