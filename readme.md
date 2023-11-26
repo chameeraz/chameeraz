@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=74F749&width=435&lines=Hellow+World!++Its+Chameera+Here...)](https://git.io/typing-svg)
 
 
-- 🤓 Software Developer at Circlebook
+- 🤓 Techlead-Software at Circlebook
 - 👨‍🏫 I’m currently learning about the facts to be packed 😎
-- 🧐 I’m looking for help with Learning new Technologies
+- 🧐 I’m looking for help with Learning New Technologies
 
 
 ### Connect with me:
