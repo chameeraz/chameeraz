@@ -1,9 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=74F749&width=435&lines=Hellow+World!++Its+Chameera+Here...)](https://git.io/typing-svg)
-
-
-- 🤓 Techlead-Software at Circlebook
-- 👨‍🏫 I’m currently learning about the facts to be packed 😎
-- 🧐 I’m looking for help with Learning New Technologies
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=74F749&width=435&lines=Hellow+World!++Its+me+Here...)](https://git.io/typing-svg)
 
 
 ### Connect with me:
@@ -18,9 +13,6 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/chameera_z)
 
 </p>
-
- ### My Tech Toolbox😎, 
-<img src="https://img.icons8.com/fluency/80/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/80/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/80/000000/laravel.png"/>  <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/> <img src="https://img.icons8.com/fluency/80/000000/node-js.png"/>
 
 
 -  ⚡ 
