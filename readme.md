@@ -17,9 +17,19 @@
 <img src="https://img.icons8.com/external-konkapp-flat-konkapp/100/000000/external-eating-stay-at-home-konkapp-flat-konkapp.png"/> <img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/> <img src="https://img.icons8.com/external-itim2101-flat-itim2101/100/000000/external-sleeping-time-management-itim2101-flat-itim2101.png"/> <img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/>  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/100/000000/external-coding-coding-and-development-soft-fill-soft-fill-juicy-fish-2.png"/><img src="https://img.icons8.com/plasticine/100/000000/arrow.png"/> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/100/000000/external-driving-daily-routine-wanicon-lineal-color-wanicon.png"/>
 
 
-##
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
+###
