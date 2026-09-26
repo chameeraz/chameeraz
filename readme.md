@@ -23,5 +23,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chameeraz/chameeraz/output/pacman-contribution-graph.svg">
 </picture>
 
-[![chameera.site](https://api.microlink.io/?url=https://chameera.site&screenshot=true&meta=false&embed=screenshot.url)](https://chameera.site)
 ###
